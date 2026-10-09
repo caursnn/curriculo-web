@@ -25,7 +25,7 @@ CSS3       | Estilização, Flexbox
 JavaScript | Interações e comportamento dinâmico   
 
 # Acesse meu projeto
-Clique aqui para acessar = 
+Clique aqui para acessar = [Web](https://caursnn.github.io/curriculo-web)
 Repositório = [GitHub](https://github.com/caursnn/curriculo-web)
 
 <p align="center">
